@@ -1,3 +1,3 @@
-Welcome tto Farhan Repository
+Welcome to Farhan Repository
 
 Hello world!
