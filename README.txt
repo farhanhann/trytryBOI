@@ -1,4 +1,4 @@
-tukar!
+Wlcome to GithubTraining
 "Anything you want" - Sir Jai, 18/7/2017
 
 I am Kendrick Lamar 
